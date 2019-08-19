@@ -1,0 +1,30 @@
+.box1{
+  background-color: #ff4da6;
+  height: 100px;
+}
+.box2
+{
+ height: 400px;
+ margin-top: 15px;
+ font-size:0;
+}
+.box3{
+ width: calc(67% - 15px);
+ height: 100%;
+ background-color: #ff037e;
+ display:inline-block;
+ vertical-align: top;
+ margin-right: 15px;
+}
+.box4{
+ width: 33%;
+ height: 100%;
+ background-color: #ce0468;
+ display:inline-block;
+ vertical-align: top;
+}
+.box5{
+ background-color: #802755;
+ height: 100px;
+  margin-top: 15px;
+}
